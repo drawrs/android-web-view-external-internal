@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Apr 24 09:42:25 WIB 2018
+1.base=/home/hilman/AndroidStudioProjects/kotlin/WebViewAndroid/app/build/intermediates/assets/debug
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=/home/hilman/AndroidStudioProjects/kotlin/WebViewAndroid/app/build/intermediates/transforms/dexMerger/debug/11
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/home/hilman/AndroidStudioProjects/kotlin/WebViewAndroid/app/build/intermediates/transforms/dexMerger/debug/12
+2.baseType=DIRECTORY
+1.path=about.html

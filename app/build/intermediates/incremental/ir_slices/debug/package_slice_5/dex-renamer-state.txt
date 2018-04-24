@@ -1,0 +1,4 @@
+#Tue Apr 24 09:42:24 WIB 2018
+base.0=/home/hilman/AndroidStudioProjects/kotlin/WebViewAndroid/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
